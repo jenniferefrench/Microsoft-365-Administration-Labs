@@ -77,4 +77,67 @@ Explored Microsoft Teams administration and organization-wide policies.
 
 ---
 
-## Lab 4 — Microsoft
+## Lab 4 — Microsoft Entra ID
+
+Practiced navigating identity and access management settings in Microsoft Entra ID.
+
+### Tasks Completed
+
+- Reviewed user identity information
+- Verified administrative role assignments
+- Reviewed group memberships
+- Examined the sign-in logs interface
+- Reviewed user access information
+
+### Entra ID Group Membership
+
+![Entra ID Group Membership](05-Entra-ID-Group-Membership.png)
+
+---
+
+## Lab 5 — Microsoft Intune Device Management
+
+Explored device enrollment restrictions and created a Windows compliance policy.
+
+### Tasks Completed
+
+- Reviewed enrolled device inventory
+- Examined Windows enrollment settings
+- Reviewed device platform enrollment restrictions
+- Created a Windows device compliance policy
+- Configured requirements for BitLocker and Secure Boot
+- Reviewed noncompliance actions
+- Left the policy unassigned to avoid affecting devices
+- Reviewed device compliance monitoring
+
+The lab did not include enrolling a physical device or testing actual device compliance.
+
+### Windows Device Compliance Policy
+
+![Intune Compliance Policy](06-Intune-Compliance-Policy.png)
+
+---
+
+## Skills Practiced
+
+- Microsoft 365 Administration
+- User Account Management
+- Password Resets
+- Account Access Management
+- Microsoft Entra ID
+- Group Management
+- Microsoft Teams Administration
+- Microsoft Intune
+- Device Compliance Policies
+- IT Help Desk Support
+- Cloud Administration Fundamentals
+
+---
+
+## Key Takeaways
+
+These labs helped me gain hands-on familiarity with Microsoft cloud administration tools and the workflows involved in supporting employees, managing access, troubleshooting account issues, and reviewing endpoint security requirements.
+
+I practiced common administrative tasks in a test environment without affecting production users or devices.
+
+This project is part of my continued professional development in IT support, cloud administration, and security.
