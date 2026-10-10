@@ -26,7 +26,7 @@ Created a test employee account and practiced common help desk procedures.
 
 **Screenshots:**
 
-[User Creation Confirmation](01-M365-User-Creation-Confirmation.png)
+[User Creation Confirmation](01-M365-User-Creation-Confirmation.png.png)
 
 [Active Users](02-M365-Active-Users.png)
 
@@ -44,4 +44,58 @@ Created an IT Support Team group and practiced membership administration.
 
 [Microsoft 365 Group Creation](03-M365-Group-Creation.png)
 
-##
+## Lab 3 — Microsoft Teams Administration
+
+Explored Teams administration and organization-wide policies.
+
+**Areas reviewed:**
+- Team settings and permissions
+- Team privacy
+- Guest permissions
+- Messaging settings
+- Meeting policies
+
+**Screenshot:**
+
+[Teams Admin Meeting Policies](04-Teams-Admin-Meeting-Policies.png)
+
+## Lab 4 — Microsoft Entra ID
+
+Practiced navigating identity and access management settings.
+
+**Tasks completed:**
+- Reviewed user identity information
+- Verified administrative role assignments
+- Reviewed group memberships
+- Examined sign-in logs
+
+**Screenshot:**
+
+[Entra ID Group Membership](05-Entra-ID-Group-Membership.png)
+
+## Lab 5 — Microsoft Intune
+
+Explored device enrollment restrictions and created a Windows compliance policy.
+
+**Tasks completed:**
+- Reviewed enrolled device inventory
+- Examined Windows enrollment settings
+- Reviewed device platform restrictions
+- Created a Windows compliance policy
+- Required BitLocker and Secure Boot
+- Reviewed noncompliance actions
+- Left the policy unassigned to avoid affecting devices
+
+No physical devices were enrolled during this lab.
+
+**Screenshot:**
+
+[Intune Compliance Policy](06-Intune-Compliance-Policy.png)
+
+## Skills Practiced
+
+Microsoft 365 Administration | User Account Management | Password Resets | Access Management | Microsoft Entra ID | Group Management | Microsoft Teams Administration | Microsoft Intune | Device Compliance Policies | IT Help Desk Support
+
+## Key Takeaways
+
+These labs provided practical experience navigating Microsoft cloud administration tools and completing common tasks associated with employee support, account management, access administration, and endpoint security.
